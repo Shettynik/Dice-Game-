@@ -1,0 +1,19 @@
+.container{
+    background-color: sandybrown;
+}
+.head{
+    text-align: center;
+    color:red;
+    font-family:Expanded 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 100px;
+    text-decoration-line: underline;
+}
+.refresh{
+    font-family:Lucida Calligraphy;
+    text-align: center;
+    font-size: 30px;
+}
+.row{
+    position: relative;
+    left:200px;
+}
